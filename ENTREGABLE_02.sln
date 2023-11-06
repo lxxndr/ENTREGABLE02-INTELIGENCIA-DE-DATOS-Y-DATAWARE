@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34009.444
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "ENTREGABLE_02", "ENTREGABLE_02\ENTREGABLE_02.dwproj", "{ECC9D9E8-735D-4F21-BA5B-4CB58EDC2392}"
+EndProject
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "ENTREGABLE02", "ENTREGABLE02\ENTREGABLE02.rptproj", "{C69B4404-3A32-4B42-8520-7CB371081A97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Development|Default = Development|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECC9D9E8-735D-4F21-BA5B-4CB58EDC2392}.Debug|Default.ActiveCfg = Development
+		{ECC9D9E8-735D-4F21-BA5B-4CB58EDC2392}.Debug|Default.Build.0 = Development
+		{ECC9D9E8-735D-4F21-BA5B-4CB58EDC2392}.Debug|Default.Deploy.0 = Development
+		{ECC9D9E8-735D-4F21-BA5B-4CB58EDC2392}.DebugLocal|Default.ActiveCfg = Development
+		{ECC9D9E8-735D-4F21-BA5B-4CB58EDC2392}.DebugLocal|Default.Build.0 = Development
+		{ECC9D9E8-735D-4F21-BA5B-4CB58EDC2392}.DebugLocal|Default.Deploy.0 = Development
+		{ECC9D9E8-735D-4F21-BA5B-4CB58EDC2392}.Development|Default.ActiveCfg = Development
+		{ECC9D9E8-735D-4F21-BA5B-4CB58EDC2392}.Development|Default.Build.0 = Development
+		{ECC9D9E8-735D-4F21-BA5B-4CB58EDC2392}.Development|Default.Deploy.0 = Development
+		{ECC9D9E8-735D-4F21-BA5B-4CB58EDC2392}.Release|Default.ActiveCfg = Development
+		{ECC9D9E8-735D-4F21-BA5B-4CB58EDC2392}.Release|Default.Build.0 = Development
+		{ECC9D9E8-735D-4F21-BA5B-4CB58EDC2392}.Release|Default.Deploy.0 = Development
+		{C69B4404-3A32-4B42-8520-7CB371081A97}.Debug|Default.ActiveCfg = Debug
+		{C69B4404-3A32-4B42-8520-7CB371081A97}.Debug|Default.Build.0 = Debug
+		{C69B4404-3A32-4B42-8520-7CB371081A97}.Debug|Default.Deploy.0 = Debug
+		{C69B4404-3A32-4B42-8520-7CB371081A97}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{C69B4404-3A32-4B42-8520-7CB371081A97}.DebugLocal|Default.Build.0 = DebugLocal
+		{C69B4404-3A32-4B42-8520-7CB371081A97}.Development|Default.ActiveCfg = DebugLocal
+		{C69B4404-3A32-4B42-8520-7CB371081A97}.Development|Default.Build.0 = DebugLocal
+		{C69B4404-3A32-4B42-8520-7CB371081A97}.Release|Default.ActiveCfg = Release
+		{C69B4404-3A32-4B42-8520-7CB371081A97}.Release|Default.Build.0 = Release
+		{C69B4404-3A32-4B42-8520-7CB371081A97}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9C19D1E-F6FD-4ED0-9B15-4AD7D146F539}
+	EndGlobalSection
+EndGlobal
